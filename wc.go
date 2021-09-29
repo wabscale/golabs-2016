@@ -2,7 +2,7 @@ package main
 
 import "os"
 import "fmt"
-import "mapreduce"
+import "golabs/mapreduce"
 
 import "container/list"
 
